@@ -1,0 +1,11 @@
+{
+    "article": {
+        "title": "Sravani Article",
+        "description": "Test Article",
+        "body": "testing an Article for Intercept",
+        "tagList": [
+            "intercept"
+        ]
+    }
+}
+
